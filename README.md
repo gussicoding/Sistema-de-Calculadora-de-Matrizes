@@ -60,4 +60,5 @@ O programa trabalha com matrizes de até 10 linhas e
 
 ## Autor
 
-Nome do aluno.
+Gustavo Henrique
+
